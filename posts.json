@@ -23,6 +23,15 @@
       "url": "post3.html",
       "author": "Jane Doe",
       "categories": ["Tech", "Web Development"]
+    },
+    {
+      "title": "Post 4",
+      "description": "This is the third post description.",
+      "date": "2023-03-20",
+      "image": "image3.jpg",
+      "url": "post3.html",
+      "author": "Jane Doe",
+      "categories": ["Tech", "Web Development"]
     }
   ]
   
