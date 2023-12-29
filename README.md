@@ -66,3 +66,7 @@ Create a JSON file (e.g., posts.json) with an array of post objects. Each post c
 ```
 
 This example fetches data from `posts.json`, displays posts in a random order, and shows a maximum of 5 posts.
+
+
+### DEMO
+https://sajaym.github.io/post-viewer/
